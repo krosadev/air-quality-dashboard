@@ -90,3 +90,8 @@ streamlit run app.py
 ```bash
 http://localhost:8501
 ```
+
+## Live Demo
+
+Check out the live version of the application: [Demo](https://air-quality-dashboard-bsjtg9urqmbcpkucapqu7r.streamlit.app/)
+
